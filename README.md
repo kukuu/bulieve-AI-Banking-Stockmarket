@@ -1,6 +1,6 @@
 # AI in Banking and Stockmarket
 
-This work is a BLUEPRINT and extends the capability of **BULIEVE** - https://www.bulieve.in/hot-takes to ensure excellence using AI & ML to build up revenue, focusing on Trading and Investments.
+This work is a BLUEPRINT and extends the capability of **BULIEVE** - https://www.bulieve.in/hot-takes to ensure excellence using AI & ML algorithms and interface modules for refinement and to build up revenue, focusing on Trading and Investments.
 
 The implementation consolidates Bulieve into a robust AI-driven Stock Investment Platform (SIT), adhering to compliance, best practices in backend integration - in security, governance, and Agile/QA practices.
 
