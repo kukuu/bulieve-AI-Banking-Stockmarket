@@ -23,6 +23,7 @@ Some of the technology practices implemented here include:
 
 ## Related work
 
+- Bulieve Front end: https://github.com/kukuu/AI-in-banking-and-stockmarket
 - Banking - Best Practices and Governance: https://github.com/kukuu/fintech-open-banking-api/blob/main/banking-best-practices.md
 - FinTech Banking API - https://github.com/kukuu/fintech-open-banking-api
  
